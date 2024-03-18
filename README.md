@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Form Application
 This is a simple web application for managing user data, built with React for the frontend and Nodejs & Express.js for the backend and for Data base  MongoDB. The application allows users to add, edit, and delete user records.
 
@@ -134,3 +135,7 @@ Fill out the form fields and click "Submit" to add a new user.
 To display existing users, click on "Get all User Details".
 Click the "Edit" button next to a user to edit their details.
 Click the "Delete" button next to a user to delete them.
+=======
+# Mern
+Projects
+>>>>>>> 6d97a1768e901ad807a442323bae7e2b081004a8
